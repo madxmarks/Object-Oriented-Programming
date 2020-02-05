@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1580944200 source:c:\users\nik_g\onedrive\documents\study code\contact\main.cpp
+	<iostream>
+	<string>
+	"Entry.h"
+	"Contact_book.h"
+
+1547432194 source:c:\users\nik_g\onedrive\documents\study code\contact\src\entry.cpp
+	"Entry.h"
+	<string>
+	<iostream>
+
+1547430797 c:\users\nik_g\onedrive\documents\study code\contact\include\entry.h
+	<string>
+
+1547431764 source:c:\users\nik_g\onedrive\documents\study code\contact\src\phoneentry.cpp
+	"PhoneEntry.h"
+	<iostream>
+	<sstream>
+
+1547431764 c:\users\nik_g\onedrive\documents\study code\contact\include\phoneentry.h
+	"Entry.h"
+
+1547431764 source:c:\users\nik_g\onedrive\documents\study code\contact\src\emailentry.cpp
+	"EmailEntry.h"
+	<iostream>
+	<sstream>
+
+1547434458 c:\users\nik_g\onedrive\documents\study code\contact\include\emailentry.h
+	"Entry.h"
+
+1580944083 source:c:\users\nik_g\onedrive\documents\study code\contact\src\contact_book.cpp
+	"Contact_book.h"
+	"Entry.h"
+	"EmailEntry.h"
+	"PhoneEntry.h"
+	<map>
+
+1580944369 c:\users\nik_g\onedrive\documents\study code\contact\include\contact_book.h
+	"EmailEntry.h"
+	"PhoneEntry.h"
+	"Entry.h"
+	<iostream>
+	<map>
+

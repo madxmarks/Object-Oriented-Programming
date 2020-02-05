@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1548743569 source:c:\users\nik_g\onedrive\documents\study code\store\main.cpp
+	<iostream>
+	<Store.h>
+	"A_Box.h"
+	<BrickBox.h>
+
+1548703037 source:c:\users\nik_g\onedrive\documents\study code\store\src\a_box.cpp
+	"A_Box.h"
+
+1548708542 c:\users\nik_g\onedrive\documents\study code\store\include\a_box.h
+	<iostream>
+
+1548743561 source:c:\users\nik_g\onedrive\documents\study code\store\src\brickbox.cpp
+	"BrickBox.h"
+
+1548703007 c:\users\nik_g\onedrive\documents\study code\store\include\brickbox.h
+	"A_Box.h"
+
+1548744175 source:c:\users\nik_g\onedrive\documents\study code\store\src\store.cpp
+	"Store.h"
+	<vector>
+	<sstream>
+
+1548743561 c:\users\nik_g\onedrive\documents\study code\store\include\store.h
+	<vector>
+	<iostream>
+	<BrickBox.h>
+	<A_Box.h>
+	<stdexcept>
+
